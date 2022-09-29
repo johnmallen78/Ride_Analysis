@@ -17,7 +17,7 @@ I first aggregated the PyBer data into a usable dataframe and created a summary 
 
 ![List](analysis/List.png)
 
-From this summary we can see that as expected Urban cities have the highest demand for ridesharing while Rural cities have the least. We can also determine from this dataset that overall, Suburban cities have the most revenue overall as the rides-per-driver statistics even out.
+From this summary we can see that as expected Urban cities have the highest demand for ridesharing while Rural cities have the least. We can also determine from this dataset that Suburban cities have the most revenue overall as the rides-per-driver statistics even out.
 
 ![Fare](analysis/Pyber_fare_summary.png)
 
